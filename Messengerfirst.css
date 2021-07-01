@@ -1,0 +1,39 @@
+.logo{
+    width: 3%
+}
+
+.cover{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.left{
+    display: inline-block;
+    width:35%;
+}
+
+.h1{
+    font-size: 80px;
+}
+.right{
+    display: inline-block;
+    width:40%;
+}
+
+.rightimage{
+    width:700px;
+    height: 700px;
+}
+
+.fyourpass{
+    display: inline;
+}
+
+.appstoreimage{
+    width:140px;
+    height: 40px;
+}
+
+.microimage{
+    width:120px;
+    height: 40px;
+}
